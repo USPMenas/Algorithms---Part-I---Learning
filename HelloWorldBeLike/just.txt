@@ -1,0 +1,2 @@
+-- javac to compile
+-- java to run
